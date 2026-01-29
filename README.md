@@ -34,8 +34,8 @@ Este repositório reúne os projetos de extensão desenvolvidos durante a gradua
 ## 📁 Documentação do Projeto
 Para detalhes técnicos, objetivos pedagógicos e o relatório completo aprovado, acesse os arquivos abaixo:
 
-* 📄 [Relatório Final - Projeto Extensionista I (PDF)](docs/Relatorio-Projeto-Extensao-I.pdf)
-* 📄 [Relatório Final - Projeto Extensionista II (PDF)](docs/Relatorio-Projeto-Extensao-II.pdf)  
+* 📄 [Relatório Final - Projeto Extensionista I (PDF)](docs/Projeto-Extensao-I.pdf)
+* 📄 [Relatório Final - Projeto Extensionista II (PDF)](docs/Projeto-Extensao-II.pdf)  
 
 ## ✉️ Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cezar.souza03@gmail.com)
